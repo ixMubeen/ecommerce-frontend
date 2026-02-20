@@ -1,0 +1,134 @@
+[  
+    {  
+        "id": 1,  
+        "name": "Product 1",  
+        "category": "Electronics",  
+        "price": 99.99,  
+        "originalPrice": 129.99,  
+        "rating": 4.5,  
+        "image": "https://example.com/product1.jpg",  
+        "description": "Description of product 1.",  
+        "stock": 50  
+    },  
+    {  
+        "id": 2,  
+        "name": "Product 2",  
+        "category": "Clothing",  
+        "price": 29.99,  
+        "originalPrice": 39.99,  
+        "rating": 4.0,  
+        "image": "https://example.com/product2.jpg",  
+        "description": "Description of product 2.",  
+        "stock": 30  
+    },  
+    {  
+        "id": 3,  
+        "name": "Product 3",  
+        "category": "Home",  
+        "price": 19.99,  
+        "originalPrice": 29.99,  
+        "rating": 4.2,  
+        "image": "https://example.com/product3.jpg",  
+        "description": "Description of product 3.",  
+        "stock": 20  
+    },  
+    {  
+        "id": 4,  
+        "name": "Product 4",  
+        "category": "Books",  
+        "price": 14.99,  
+        "originalPrice": 19.99,  
+        "rating": 4.7,  
+        "image": "https://example.com/product4.jpg",  
+        "description": "Description of product 4.",  
+        "stock": 100  
+    },  
+    {  
+        "id": 5,  
+        "name": "Product 5",  
+        "category": "Toys",  
+        "price": 24.99,  
+        "originalPrice": 29.99,  
+        "rating": 4.8,  
+        "image": "https://example.com/product5.jpg",  
+        "description": "Description of product 5.",  
+        "stock": 60  
+    },  
+    {  
+        "id": 6,  
+        "name": "Product 6",  
+        "category": "Health",  
+        "price": 49.99,  
+        "originalPrice": 59.99,  
+        "rating": 4.1,  
+        "image": "https://example.com/product6.jpg",  
+        "description": "Description of product 6.",  
+        "stock": 25  
+    },  
+    {  
+        "id": 7,  
+        "name": "Product 7",  
+        "category": "Beauty",  
+        "price": 19.99,  
+        "originalPrice": 24.99,  
+        "rating": 4.6,  
+        "image": "https://example.com/product7.jpg",  
+        "description": "Description of product 7.",  
+        "stock": 45  
+    },  
+    {  
+        "id": 8,  
+        "name": "Product 8",  
+        "category": "Sports",  
+        "price": 74.99,  
+        "originalPrice": 89.99,  
+        "rating": 4.9,  
+        "image": "https://example.com/product8.jpg",  
+        "description": "Description of product 8.",  
+        "stock": 55  
+    },  
+    {  
+        "id": 9,  
+        "name": "Product 9",  
+        "category": "Automotive",  
+        "price": 39.99,  
+        "originalPrice": 49.99,  
+        "rating": 4.3,  
+        "image": "https://example.com/product9.jpg",  
+        "description": "Description of product 9.",  
+        "stock": 15  
+    },  
+    {  
+        "id": 10,  
+        "name": "Product 10",  
+        "category": "Jewelry",  
+        "price": 199.99,  
+        "originalPrice": 249.99,  
+        "rating": 4.8,  
+        "image": "https://example.com/product10.jpg",  
+        "description": "Description of product 10.",  
+        "stock": 10  
+    },  
+    {  
+        "id": 11,  
+        "name": "Product 11",  
+        "category": "Garden",  
+        "price": 89.99,  
+        "originalPrice": 109.99,  
+        "rating": 4.4,  
+        "image": "https://example.com/product11.jpg",  
+        "description": "Description of product 11.",  
+        "stock": 35  
+    },  
+    {  
+        "id": 12,  
+        "name": "Product 12",  
+        "category": "Kitchen",  
+        "price": 59.99,  
+        "originalPrice": 69.99,  
+        "rating": 4.2,  
+        "image": "https://example.com/product12.jpg",  
+        "description": "Description of product 12.",  
+        "stock": 20  
+    }  
+]
