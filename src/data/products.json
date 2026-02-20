@@ -1,0 +1,134 @@
+[
+  {
+    "id": 1,
+    "name": "Wireless Headphones",
+    "category": "Electronics",
+    "price": 2999,
+    "originalPrice": 4999,
+    "rating": 4.5,
+    "image": "https://via.placeholder.com/300x300?text=Wireless+Headphones",
+    "description": "High-quality wireless headphones with noise cancellation, 30-hour battery life, and premium sound quality.",
+    "stock": 25
+  },
+  {
+    "id": 2,
+    "name": "Smart Watch",
+    "category": "Electronics",
+    "price": 15999,
+    "originalPrice": 24999,
+    "rating": 4.3,
+    "image": "https://via.placeholder.com/300x300?text=Smart+Watch",
+    "description": "Feature-rich smartwatch with heart rate monitor, sleep tracking, and 7-day battery.",
+    "stock": 18
+  },
+  {
+    "id": 3,
+    "name": "USB-C Cable",
+    "category": "Accessories",
+    "price": 499,
+    "originalPrice": 999,
+    "rating": 4.7,
+    "image": "https://via.placeholder.com/300x300?text=USB-C+Cable",
+    "description": "Durable USB-C cable with fast charging support up to 100W.",
+    "stock": 50
+  },
+  {
+    "id": 4,
+    "name": "Laptop Stand",
+    "category": "Accessories",
+    "price": 1999,
+    "originalPrice": 3499,
+    "rating": 4.4,
+    "image": "https://via.placeholder.com/300x300?text=Laptop+Stand",
+    "description": "Adjustable aluminum laptop stand for ergonomic setup.",
+    "stock": 30
+  },
+  {
+    "id": 5,
+    "name": "Wireless Mouse",
+    "category": "Electronics",
+    "price": 1299,
+    "originalPrice": 2499,
+    "rating": 4.2,
+    "image": "https://via.placeholder.com/300x300?text=Wireless+Mouse",
+    "description": "Precision wireless mouse with 2.4GHz receiver and silent clicks.",
+    "stock": 40
+  },
+  {
+    "id": 6,
+    "name": "Phone Case",
+    "category": "Accessories",
+    "price": 599,
+    "originalPrice": 1299,
+    "rating": 4.6,
+    "image": "https://via.placeholder.com/300x300?text=Phone+Case",
+    "description": "Protective phone case with shock absorption and stylish design.",
+    "stock": 60
+  },
+  {
+    "id": 7,
+    "name": "Screen Protector",
+    "category": "Accessories",
+    "price": 299,
+    "originalPrice": 699,
+    "rating": 4.1,
+    "image": "https://via.placeholder.com/300x300?text=Screen+Protector",
+    "description": "Tempered glass screen protector with easy installation.",
+    "stock": 75
+  },
+  {
+    "id": 8,
+    "name": "Portable Charger",
+    "category": "Electronics",
+    "price": 1799,
+    "originalPrice": 3299,
+    "rating": 4.5,
+    "image": "https://via.placeholder.com/300x300?text=Portable+Charger",
+    "description": "High-capacity portable charger with multiple USB ports.",
+    "stock": 35
+  },
+  {
+    "id": 9,
+    "name": "Keyboard",
+    "category": "Electronics",
+    "price": 3499,
+    "originalPrice": 5999,
+    "rating": 4.4,
+    "image": "https://via.placeholder.com/300x300?text=Keyboard",
+    "description": "Mechanical RGB keyboard with customizable switches.",
+    "stock": 22
+  },
+  {
+    "id": 10,
+    "name": "Monitor Stand",
+    "category": "Accessories",
+    "price": 2499,
+    "originalPrice": 4299,
+    "rating": 4.3,
+    "image": "https://via.placeholder.com/300x300?text=Monitor+Stand",
+    "description": "Adjustable monitor stand with cable management.",
+    "stock": 28
+  },
+  {
+    "id": 11,
+    "name": "Desk Lamp",
+    "category": "Accessories",
+    "price": 1299,
+    "originalPrice": 2499,
+    "rating": 4.5,
+    "image": "https://via.placeholder.com/300x300?text=Desk+Lamp",
+    "description": "LED desk lamp with brightness control and USB charging.",
+    "stock": 32
+  },
+  {
+    "id": 12,
+    "name": "Webcam HD",
+    "category": "Electronics",
+    "price": 2199,
+    "originalPrice": 4499,
+    "rating": 4.6,
+    "image": "https://via.placeholder.com/300x300?text=Webcam+HD",
+    "description": "1080p HD webcam with built-in microphone and auto-focus.",
+    "stock": 20
+  }
+]
